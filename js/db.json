@@ -1,0 +1,16 @@
+
+{ "question":[
+	{ "q":"Which of the following are available only in the class hierarchy chain?" , "a": "Public data members", "b": "Private data members","c":"Protected data members" ,"d":"Member functions ","id":"1","ans":"c" },
+    { "q":"Which of the following concepts provides facility of using object of one class inside another class?", "a": "Encapsulation", "b": "Abstraction","c":"Composition" ,"d":"Inheritance","id":"2","ans":"c" },
+    { "q":"Which of the following access specifier is used as a default in a class definition?" , "a": "protected", "b": "public","c":"private" ,"d":"friend ","id":"3","ans":"c" },
+    { "q":"Which of the following is an invalid visibility label while inheriting a class?" , "a": "public", "b": "private","c":"protected" ,"d":"friend ","id":"4","ans":"d" },
+    { "q":"Which one of the following options is correct about the statement given below? The compiler checks the type of reference in the object and not the type of object." , "a": "Inheritance", "b": "Polymorphism","c":"Abstraction" ,"d":"Encapsulation","id":"5","ans":"b" },
+   { "q":"Which of the following statement is correct?" , "a": "Once a reference variable has been defined to refer to a particular variable it can refer to any other variable", "b": "A reference is indicated by using && operator","c":"none of the above","d":"A reference can be declared beforehand and initialized later ","id":"6","ans":"c" },
+    { "q":"Constructorsto allow different approaches of object construction", "a": "cannot overloaded", "b": "can be overloaded","c":"can be called" ,"d":"can be nested","id":"7","ans":"b" },
+    { "q":"Which of the following cannot be declared as virtual?" , "a": "Constructor", "b": "Destructor","c":"Data Members" ,"d":"Both A and C","id":"8","ans":"d" },
+    { "q":"Which of the following statement will be correct if the function has three arguments passed to it?" , "a": "The trailing argument will be the default argument", "b": "The first argument will be the default argument","c":"The middle argument will be the default argument" ,"d":" All the argument will be the default argument","id":"10","ans":"a" }
+    
+    
+]
+}
+

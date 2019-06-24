@@ -1,0 +1,16 @@
+
+{ "question":[
+	{ "q":"_______are you made? Because you are late" ,"a":"When","b":"Where","c":"What","d":"why","id":"1","ans":"d" },
+    { "q":"Were you tired after the trip in the mountains?" ,"a":"We was tired and also wet from the rain", "b": "Yes, was I very tired","c":"We been tired and hungry." ,"d":"Yes, we were, but we were happy","id":"2","ans":"d" },
+    { "q":"How many days are there in February?" , "a": "There are 28", "b": "They are 28","c":"In Febuary, there are 28." ,"d":"Are only 28 days.","id":"3","ans":"a" },
+    { "q":"______ are you having dinner with?I'm having dinner with Junko." , "a": "Who", "b": "Where","c":"What" ,"d":"Who","id":"4","ans":"d" },
+    { "q":"Who is your mother's sister's daughter?" , "a": "She is my wife.", "b": "She is my mother's nephew","c":"She my cousin." ,"d":"My mother's sister's daughter is my cousin.","id":"5","ans":"d" },
+    { "q":"Don't count your chickens ______ they're hatched." , "a": "then", "b": "before","c":"and" ,"d":"but","id":"6","ans":"b" },
+    { "q":"Do you have any money?" , "a": "No, I have none", "b": "Yes, I has some.","c":"No, I don't have many." ,"d":"Yes, I have any.","id":"7","ans":"a" },
+    { "q":"Chocolate is my greatest ______." , "a": "weakness", "b": "weakened","c":"weak" ,"d":"weaken","id":"8","ans":"a" },
+    { "q":"Whose shoes are these?" , "a": "It's mine.", "b": "They are hers shoes","c":"They're their" ,"d":"","id":"9","Their my shoes.ans":"c" },
+    { "q":"How many days are there in February?" , "a": "There are 28", "b": "They are 28","c":"In Febuary, there are 28." ,"d":"Are only 28 days.","id":"10","ans":"a" }
+    
+]
+}
+

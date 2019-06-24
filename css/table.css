@@ -1,0 +1,57 @@
+.tbl-question{
+    background-color: rgb(247, 247, 247);
+    width: 70%;
+    margin: auto;
+    box-shadow: 1px 1px 10px grey;
+}
+.table {
+width: 85%;
+margin: auto;
+margin-top: 5vw;
+}
+.btn-start{
+    border: none;
+    background-color: rgb(56, 187, 56);
+    color: #fff;
+    padding: .5em 1em;
+    cursor: pointer;
+}
+* 
+{
+	margin: 0px; 
+	padding: 0px; 
+	box-sizing: border-box;
+}
+
+#contact
+
+{
+    width: 50%;
+    height: 100vh;
+    background-color:#e8dbc9;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    border-radius: 25%;
+    
+}
+
+input
+{
+     width: 50%;
+     border: 0;
+     border-radius: 30px;
+     padding: 8px;
+}
+#textarea
+{
+    width: 50%;
+    border-radius: 30px;
+    
+}
+#btn
+{
+    width: 50%;
+    border-radius: 30px;
+    background-color:#ffb366;
+}

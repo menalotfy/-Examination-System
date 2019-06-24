@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+	<title>Contact Us</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/table.css">
+    </head>  
+    <body>
+        <div id="contact" >
+            <h1>Contact Us</h1><br>
+            <input type="text" placeholder="Name" id="uName"><br><br>
+            <input type="text" placeholder="Phone"><br><br>
+            <input type="email" placeholder="E-mail"><br><br>
+            <input type="text" placeholder="Subject"><br><br>
+            <textarea id="textarea" cols="8" rows="10" >
+                
+            </textarea><br><br>
+            <input id="btn" type="button" value="Send" onclick="show()">
+            
+        </div>
+		<script>
+		function  show(){
+			var txt1=document.getElementById("textarea");
+			 var uName2=document.getElementById("uName");
+             
+
+			if(uName2.value.length  > 3 && txt1.value.length>3 )
+				{			
+                    alert("thanks for contact we will contact with u");
+
+				}
+			else{					alert("erro you must enter data");
+
+		}}
+        
+		</script>
+    </body>
+</html>    

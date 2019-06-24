@@ -1,0 +1,35 @@
+.question{
+    margin: auto;
+    width: 50%;
+    height: 40vh;
+    background-color: #EEE;
+    border: 1px solid #DDD;
+    margin-bottom: 1em;
+}
+.question h3{
+    margin:2em 3em;
+}
+.question span{
+    display: block;
+    margin-left: 3em;
+    margin-bottom: 1em;
+}
+
+.btns{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 0.3em;
+    border: 1px solid rgb(72, 85, 204);
+    cursor: pointer;
+}
+.btns button{
+
+    border: none;
+    width: 6%;
+    height: 6vh;
+    color: blue;
+    margin-right: .5em;
+    background-color: rgb(184, 177, 177);
+    cursor: pointer;
+}

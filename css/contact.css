@@ -1,0 +1,39 @@
+* 
+{
+	margin: 0px; 
+	padding: 0px; 
+	box-sizing: border-box;
+}
+
+#contact
+
+{
+    width: 50%;
+    height: 100vh;
+    background-color:#e8dbc9;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    border-radius: 25%;
+    
+}
+
+input
+{
+     width: 50%;
+     border: 0;
+     border-radius: 30px;
+     padding: 8px;
+}
+#textarea
+{
+    width: 50%;
+    border-radius: 30px;
+    
+}
+#btn
+{
+    width: 50%;
+    border-radius: 30px;
+    background-color:#ffb366;
+}

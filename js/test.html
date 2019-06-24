@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>my test</title>
+
+</head>
+<body>
+<form>
+	<input type="button" value="show password" id="btn" onclick="getPage()">
+	<div id="txt"></div>
+</form>
+
+ <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script>
+
+    
+
+			
+
+btn.onclick=function(){
+
+	var url='db.json';
+			$.getJSON(url, function(result){
+				
+	 randomIndex=Math.floor(Math.random()*result.question.length);
+	
+		document.getElementById("txt").innerHTML+=result.question[randomIndex].q+"<br>"+result.question[randomIndex].a+"<br>"+result.question[randomIndex].b+"<br>"+
+		result.question[randomIndex].c+"<br>";
+		})	;
+	}
+	
+
+	</script>
+</body>	
+</html>

@@ -1,0 +1,16 @@
+
+{ "question":[
+	{ "q":"Which of the following represents processor activities, methods, and procedures in a data flow diagram?" , "a": "datagram", "b": "actigram","c":"feed back" ,"d":"flow chart","id":"1","ans":"c" },
+    { "q":"System Specifications are used to" , "a": "describe system flows", "b": "get an accurate picture of the system","c":"avoids ambiguity" ,"d":"Ail of the above","id":"2","ans":"d" },
+    { "q":"The rms value of a sine waveform is:" , "a": "the number of cycles completed in one second", "b": "the time required to complete one full cycle","c":"equal to 0.707 times the peak amplitude" ,"d":"equal to 1.41 times the peak amplitude","id":"3","ans":"c" },
+    { "q":"Most networks are connected to other local area or wide area networks. Select the best fit for answer:" , "a": "Internet works", "b": "The Internet","c":"Internet revolution" ,"d":"Internet technologies","id":"4","ans":"a" },
+    { "q":"Bandlimited signal is" , "a": "transmission of signals without modulation", "b": "a signal all of whose energy is contained within a finite frequency range","c":"simultaneous transmission of data to a number of stations" ,"d":"All of the above","id":"5","ans":"b" },
+    { "q":"A program that converts computer data into some code system other than the normal one is known as" , "a": "Encoder", "b": "Simulation","c":"Simulation" ,"d":"Emulator","id":"6","ans":"a" },
+    { "q":"What logic function is obtained by adding an inverter to the output of an AND gate?" , "a": "OR", "b": "NAND","c":"XOR" ,"d":"AND","id":"7","ans":"b" },
+    { "q":"To create a variable, you must assign to it" , "a": "a data type", "b": "a name","c":"both a data type and a name" ,"d":"the word varr","id":"8","ans":"c" },
+    { "q":"What command is used to assign executable permission to all of the files named report?" , "a": "chmod ugo + x report", "b": "chmod u + x report","c":"chmod ugo + rw report" ,"d":"chmod ugo + r report","id":"9","ans":"a" },
+    { "q":"Codes which do not require to be frequently updated also promote user efficiency due to" , "a": "Simplicity", "b": "Sortability","c":"Stability" ,"d":"Expansibility","id":"10","ans":"c" }
+    
+]
+}
+
